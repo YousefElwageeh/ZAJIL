@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd ai-call-service-business-model
+   cd ZAJIL
    ```
 
 3. **Install the dependencies:**
