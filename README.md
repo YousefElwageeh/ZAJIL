@@ -1,18 +1,56 @@
 # ZAJIL
 
 
+```markdown
+# AI-Driven Call Service for Restaurants - Business Model Canvas
 
-A new Flutter project.
+This project is a Flutter application that displays the business model canvas for an AI-driven call service for restaurants. The application provides a structured and interactive way to view the key components of the business model.
 
-## Getting Started
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-This project is a starting point for a Flutter application.
+## Features
+- Displays a business model canvas for AI-driven call service
+- Interactive UI for easy navigation
+- Responsive design for mobile and tablet screens
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+To run this project locally, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/ai-call-service-business-model.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Navigate to the project directory:**
+   ```bash
+   cd ai-call-service-business-model
+   ```
+
+3. **Install the dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the application:**
+   ```bash
+   flutter run
+   ```
+
+## Usage
+Once the application is running, you can navigate through the different sections of the business model canvas. Each section provides detailed information about key partners, activities, value propositions, customer relationships, customer segments, key resources, channels, cost structure, and revenue streams.
+
+## Screenshots
+Include some screenshots of your application here to give users an idea of what it looks like.
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+
+
+Replace the placeholders such as `yourusername` and `screenshots/screenshot1.png` with the actual details of your project. This README file provides a clear overview of the project and instructions on how to get started.
